@@ -17,7 +17,7 @@ public class Alvo extends JPanel {
     public void paintComponent(Graphics g) {
         super.paintComponent(g);
         Random color = new Random();
-        int diametro = 300;
+        int diametro = getWidth();
         int fator = 40;
         
 
