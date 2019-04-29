@@ -29,7 +29,7 @@ public class DenhoGUI {
 
         alvoApplication.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         alvoApplication.add(alvo);
-        alvoApplication.setSize(300, 300);
+        alvoApplication.setSize(300, 330);
 
         alvoApplication.setVisible(true);
 
